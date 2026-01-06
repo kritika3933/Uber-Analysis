@@ -4,6 +4,11 @@ This project presents a comprehensive Uber Trip Analysis Dashboard designed in P
 
 The primary objective is to help businesses and decision-makers in the ride-hailing sector understand peak usage periods, city-wide trip demand, vehicle category preference, and pickup-dropoff trends to support strategic planning, resource allocation, and pricing optimization.
 
+
+
+🔗 [View Live Dashboard](https://https://app.powerbi.com/view?r=eyJrIjoiYTQ2OTFjZTUtZmE3Mi00ZjY5LTg0ZjktNGZhYzY5M2JiYzcxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+
 🚀 Key Metrics & Highlights
 
 | KPI | Value |

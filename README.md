@@ -6,8 +6,12 @@ The primary objective is to help businesses and decision-makers in the ride-hail
 
 
 
-🔗 📊 [Live Power BI Dashboard]
-(https://https://app.powerbi.com/view?r=eyJrIjoiYTQ2OTFjZTUtZmE3Mi00ZjY5LTg0ZjktNGZhYzY5M2JiYzcxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+## 🔗 Dashboard Link
+
+👉 🔗 [View Live Dashboard](https://https://app.powerbi.com/view?r=eyJrIjoiYTQ2OTFjZTUtZmE3Mi00ZjY5LTg0ZjktNGZhYzY5M2JiYzcxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
+
+
 
 
 🚀 Key Metrics & Highlights
